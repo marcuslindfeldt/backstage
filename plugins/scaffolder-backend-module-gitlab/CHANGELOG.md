@@ -1,5 +1,22 @@
 # @backstage/plugin-scaffolder-backend-module-gitlab
 
+## 0.2.0-next.3
+
+### Patch Changes
+
+- f1496d4ab6f: Fix input schema validation issue for gitlab actions:
+
+  - gitlab:group:ensureExists
+  - gitlab:projectAccessToken:create
+  - gitlab:projectDeployToken:create
+  - gitlab:projectVariable:create
+
+- Updated dependencies
+  - @backstage/config@1.0.7
+  - @backstage/errors@1.1.5
+  - @backstage/integration@1.4.5-next.0
+  - @backstage/plugin-scaffolder-node@0.1.3-next.3
+
 ## 0.2.0-next.2
 
 ### Minor Changes

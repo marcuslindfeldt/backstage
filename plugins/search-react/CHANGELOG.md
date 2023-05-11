@@ -1,5 +1,18 @@
 # @backstage/plugin-search-react
 
+## 1.6.0-next.3
+
+### Patch Changes
+
+- f785f0804cd: `SearchPagination` now automatically resets the page cursor when the page limit is changed
+- Updated dependencies
+  - @backstage/core-components@0.13.1-next.2
+  - @backstage/core-plugin-api@1.5.1
+  - @backstage/theme@0.3.0-next.0
+  - @backstage/types@1.0.2
+  - @backstage/version-bridge@1.0.4
+  - @backstage/plugin-search-common@1.2.3
+
 ## 1.6.0-next.2
 
 ### Minor Changes

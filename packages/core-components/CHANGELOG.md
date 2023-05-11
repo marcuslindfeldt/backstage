@@ -1,5 +1,17 @@
 # @backstage/core-components
 
+## 0.13.1-next.2
+
+### Patch Changes
+
+- b1f13cb38aa: Fix accessibility issue with Edit Metadata Link on screen readers missing notice about opening in a new tab.
+- Updated dependencies
+  - @backstage/config@1.0.7
+  - @backstage/core-plugin-api@1.5.1
+  - @backstage/errors@1.1.5
+  - @backstage/theme@0.3.0-next.0
+  - @backstage/version-bridge@1.0.4
+
 ## 0.13.1-next.1
 
 ### Patch Changes
